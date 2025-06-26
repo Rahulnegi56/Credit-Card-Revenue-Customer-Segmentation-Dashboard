@@ -1,1 +1,1 @@
-# Credit-Card-Revenue-Customer-Segmentation-Dashboard
+This Power BI project analyzes credit card transactions from 2019 to 2021, covering over $56 million in revenue and 667,000+ transactions. The dashboard provides insights into customer behavior based on demographics, card types, transaction methods, and regional performance.

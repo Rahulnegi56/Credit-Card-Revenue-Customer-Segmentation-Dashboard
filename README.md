@@ -1,1 +1,1 @@
-This Power BI project analyzes credit card transactions from 2019 to 2021, covering over $56 million in revenue and 667,000+ transactions. The dashboard provides insights into customer behavior based on demographics, card types, transaction methods, and regional performance.
+This project combines SQL for data extraction and Power BI for visualization to analyze over $56 million in credit card revenue and 667,000+ transactions from 2019 to 2021. The analysis provides a deep dive into customer spending patterns and revenue contribution across multiple dimensions.

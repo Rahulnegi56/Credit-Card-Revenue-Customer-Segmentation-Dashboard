@@ -1,6 +1,8 @@
+#Credit-Card-Revenue-Customer-Segmentation-Dashboard
+
 I worked on a Credit Card Analysis project to explore customer behavior, revenue generation, and transaction trends. I used SQL for querying and data extraction, and Power BI for building interactive dashboards. The raw data was cleaned using Excel, and I created visuals that deliver clear insights to business stakeholders.
 
-Project Objective:
+##Project Objective:
 The main goal was to uncover spending behavior, revenue trends, and customer segmentation insights to help a bank understand which customer groups and card types drive the most value—and where improvements can be made in marketing, service, or credit risk.
 
 What I Analyzed:
